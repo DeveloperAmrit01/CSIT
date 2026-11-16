@@ -1,0 +1,168 @@
+{
+  "program": "TU B.Sc. CSIT",
+  "source": {
+    "file": "bsccsit-first-two-years454.pdf",
+    "curriculum_year": 2017,
+    "effective_from_academic_year": 2074,
+    "current_status": "not_verified",
+    "catalog_scope": "Semesters I-VIII",
+    "detailed_unit_scope": "The provided PDF includes detailed unit outlines for Semesters I-IV; the catalog lists course titles and electives for Semesters I-VIII."
+  },
+  "semesters": [
+    {
+      "number": 1,
+      "courses": [
+        {"code": "CSC109", "title": "Introduction to Information Technology", "credits": 3, "full_marks": 100},
+        {"code": "CSC110", "title": "C Programming", "credits": 3, "full_marks": 100},
+        {"code": "CSC111", "title": "Digital Logic", "credits": 3, "full_marks": 100},
+        {"code": "MTH112", "title": "Mathematics I", "credits": 3, "full_marks": 100},
+        {"code": "PHY113", "title": "Physics", "credits": 3, "full_marks": 100}
+      ],
+      "electives": []
+    },
+    {
+      "number": 2,
+      "courses": [
+        {"code": "CSC160", "title": "Discrete Structure", "credits": 3, "full_marks": 100},
+        {"code": "CSC161", "title": "Object Oriented Programming", "credits": 3, "full_marks": 100},
+        {"code": "CSC162", "title": "Microprocessor", "credits": 3, "full_marks": 100},
+        {"code": "MTH163", "title": "Mathematics II", "credits": 3, "full_marks": 100},
+        {"code": "STA164", "title": "Statistics I", "credits": 3, "full_marks": 100}
+      ],
+      "electives": []
+    },
+    {
+      "number": 3,
+      "courses": [
+        {"code": "CSC206", "title": "Data Structure and Algorithms", "credits": 3, "full_marks": 100},
+        {"code": "CSC207", "title": "Numerical Method", "credits": 3, "full_marks": 100},
+        {"code": "CSC208", "title": "Computer Architecture", "credits": 3, "full_marks": 100},
+        {"code": "CSC209", "title": "Computer Graphics", "credits": 3, "full_marks": 100},
+        {"code": "STA210", "title": "Statistics II", "credits": 3, "full_marks": 100}
+      ],
+      "electives": []
+    },
+    {
+      "number": 4,
+      "courses": [
+        {"code": "CSC257", "title": "Theory of Computation", "credits": 3, "full_marks": 100},
+        {"code": "CSC258", "title": "Computer Networks", "credits": 3, "full_marks": 100},
+        {"code": "CSC259", "title": "Operating Systems", "credits": 3, "full_marks": 100},
+        {"code": "CSC260", "title": "Database Management System", "credits": 3, "full_marks": 100},
+        {"code": "CSC261", "title": "Artificial Intelligence", "credits": 3, "full_marks": 100}
+      ],
+      "electives": []
+    },
+    {
+      "number": 5,
+      "courses": [
+        {"code": "CSC314", "title": "Design and Analysis of Algorithms", "credits": 3, "full_marks": 100},
+        {"code": "CSC315", "title": "System Analysis and Design", "credits": 3, "full_marks": 100},
+        {"code": "CSC316", "title": "Cryptography", "credits": 3, "full_marks": 100},
+        {"code": "CSC317", "title": "Simulation and Modeling", "credits": 3, "full_marks": 100},
+        {"code": "CSC318", "title": "Web Technology", "credits": 3, "full_marks": 100}
+      ],
+      "electives": [
+        {
+          "group": "Elective I",
+          "courses": [
+            {"code": "CSC319", "title": "Multimedia Computing", "credits": 3, "full_marks": 100},
+            {"code": "CSC320", "title": "Wireless Networking", "credits": 3, "full_marks": 100},
+            {"code": "CSC321", "title": "Image Processing", "credits": 3, "full_marks": 100},
+            {"code": "CSC322", "title": "Knowledge Management", "credits": 3, "full_marks": 100},
+            {"code": "CSC323", "title": "Society and Ethics in Information Technology", "credits": 3, "full_marks": 100},
+            {"code": "CSC324", "title": "Microprocessor Based Design", "credits": 3, "full_marks": 100}
+          ]
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "courses": [
+        {"code": "CSC364", "title": "Software Engineering", "credits": 3, "full_marks": 100},
+        {"code": "CSC365", "title": "Compiler Design and Construction", "credits": 3, "full_marks": 100, "source_title": "Complier Design and Construction"},
+        {"code": "CSC366", "title": "E-Governance", "credits": 3, "full_marks": 100},
+        {"code": "CSC367", "title": "NET Centric Computing", "credits": 3, "full_marks": 100},
+        {"code": "CSC368", "title": "Technical Writing", "credits": 3, "full_marks": 100}
+      ],
+      "electives": [
+        {
+          "group": "Elective II",
+          "courses": [
+            {"code": "CSC369", "title": "Applied Logic", "credits": 3, "full_marks": 100},
+            {"code": "CSC370", "title": "E-commerce", "credits": 3, "full_marks": 100},
+            {"code": "CSC371", "title": "Automation and Robotics", "credits": 3, "full_marks": 100},
+            {"code": "CSC372", "title": "Neural Networks", "credits": 3, "full_marks": 100},
+            {"code": "CSC373", "title": "Computer Hardware Design", "credits": 3, "full_marks": 100},
+            {"code": "CSC374", "title": "Cognitive Science", "credits": 3, "full_marks": 100}
+          ]
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "courses": [
+        {"code": "CSC409", "title": "Advanced Java Programming", "credits": 3, "full_marks": 100},
+        {"code": "CSC410", "title": "Data Warehousing and Data Mining", "credits": 3, "full_marks": 100},
+        {"code": "MGT411", "title": "Principles of Management", "credits": 3, "full_marks": 100},
+        {"code": "CSC412", "title": "Project Work", "credits": 3, "full_marks": 100}
+      ],
+      "electives": [
+        {
+          "group": "Elective III",
+          "courses": [
+            {"code": "CSC413", "title": "Information Retrieval", "credits": 3, "full_marks": 100},
+            {"code": "CSC414", "title": "Database Administration", "credits": 3, "full_marks": 100},
+            {"code": "CSC415", "title": "Software Project Management", "credits": 3, "full_marks": 100},
+            {"code": "CSC416", "title": "Network Security", "credits": 3, "full_marks": 100},
+            {"code": "CSC417", "title": "Digital System Design", "credits": 3, "full_marks": 100},
+            {"code": "MGT418", "title": "International Marketing", "credits": 3, "full_marks": 100}
+          ]
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "courses": [
+        {"code": "CSC461", "title": "Advanced Database", "credits": 3, "full_marks": 100},
+        {"code": "CSC462", "title": "Internship", "credits": 6, "full_marks": 200}
+      ],
+      "electives": [
+        {
+          "group": "Elective IV",
+          "courses": [
+            {"code": "CSC463", "title": "Advanced Networking with IPV6", "credits": 3, "full_marks": 100},
+            {"code": "CSC464", "title": "Distributed Networking", "credits": 3, "full_marks": 100},
+            {"code": "CSC465", "title": "Game Technology", "credits": 3, "full_marks": 100},
+            {"code": "CSC466", "title": "Distributed and Object Oriented Database", "credits": 3, "full_marks": 100},
+            {"code": "CSC467", "title": "Introduction to Cloud Computing", "credits": 3, "full_marks": 100},
+            {"code": "CSC468", "title": "Geographical Information System", "credits": 3, "full_marks": 100},
+            {"code": "CSC469", "title": "Decision Support System and Expert System", "credits": 3, "full_marks": 100},
+            {"code": "CSC470", "title": "Mobile Application Development", "credits": 3, "full_marks": 100},
+            {"code": "CSC471", "title": "Real Time Systems", "credits": 3, "full_marks": 100},
+            {"code": "CSC472", "title": "Network and System Administration", "credits": 3, "full_marks": 100},
+            {"code": "CSC473", "title": "Embedded Systems Programming", "credits": 3, "full_marks": 100},
+            {"code": "MGT474", "title": "International Business Management", "credits": 3, "full_marks": 100}
+          ]
+        },
+        {
+          "group": "Elective V",
+          "courses": [
+            {"code": "CSC463", "title": "Advanced Networking with IPV6", "credits": 3, "full_marks": 100},
+            {"code": "CSC464", "title": "Distributed Networking", "credits": 3, "full_marks": 100},
+            {"code": "CSC465", "title": "Game Technology", "credits": 3, "full_marks": 100},
+            {"code": "CSC466", "title": "Distributed and Object Oriented Database", "credits": 3, "full_marks": 100},
+            {"code": "CSC467", "title": "Introduction to Cloud Computing", "credits": 3, "full_marks": 100},
+            {"code": "CSC468", "title": "Geographical Information System", "credits": 3, "full_marks": 100},
+            {"code": "CSC469", "title": "Decision Support System and Expert System", "credits": 3, "full_marks": 100},
+            {"code": "CSC470", "title": "Mobile Application Development", "credits": 3, "full_marks": 100},
+            {"code": "CSC471", "title": "Real Time Systems", "credits": 3, "full_marks": 100},
+            {"code": "CSC472", "title": "Network and System Administration", "credits": 3, "full_marks": 100},
+            {"code": "CSC473", "title": "Embedded Systems Programming", "credits": 3, "full_marks": 100},
+            {"code": "MGT474", "title": "International Business Management", "credits": 3, "full_marks": 100}
+          ]
+        }
+      ]
+    }
+  ]
+}

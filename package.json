@@ -1,0 +1,14 @@
+{
+  "name": "csit-study-buddy",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A local TU B.Sc. CSIT syllabus browser and Gemini-powered study tutor.",
+  "scripts": {
+    "start": "node --env-file-if-exists=.env server.js",
+    "dev": "node --watch --env-file-if-exists=.env server.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=22.9.0"
+  }
+}

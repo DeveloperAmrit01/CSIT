@@ -1,0 +1,205 @@
+{
+  "source": "Detailed units transcribed from the supplied 2017 TU B.Sc. CSIT PDF; not verified as the current syllabus.",
+  "courses": {
+    "CSC109": [
+      {"number": 1, "title": "Introduction to Computer", "hours": 3},
+      {"number": 2, "title": "The Computer System Hardware", "hours": 3},
+      {"number": 3, "title": "Computer Memory", "hours": 4},
+      {"number": 4, "title": "Input and Output Devices", "hours": 4},
+      {"number": 5, "title": "Data Representation", "hours": 6},
+      {"number": 6, "title": "Computer Software", "hours": 6},
+      {"number": 7, "title": "Data Communication and Computer Network", "hours": 5},
+      {"number": 8, "title": "The Internet and Internet Services", "hours": 4},
+      {"number": 9, "title": "Fundamentals of Database", "hours": 4},
+      {"number": 10, "title": "Multimedia", "hours": 3},
+      {"number": 11, "title": "Computer Security", "hours": 3}
+    ],
+    "CSC110": [
+      {"number": 1, "title": "Problem Solving with Computer", "hours": 2},
+      {"number": 2, "title": "Elements of C", "hours": 4},
+      {"number": 3, "title": "Input and Output", "hours": 2},
+      {"number": 4, "title": "Operators and Expression", "hours": 4},
+      {"number": 5, "title": "Control Statement", "hours": 4},
+      {"number": 6, "title": "Arrays", "hours": 6},
+      {"number": 7, "title": "Functions", "hours": 5},
+      {"number": 8, "title": "Structure and Union", "hours": 5},
+      {"number": 9, "title": "Pointers", "hours": 6},
+      {"number": 10, "title": "File Handling in C", "hours": 4},
+      {"number": 11, "title": "Introduction to Graphics", "hours": 3}
+    ],
+    "CSC111": [
+      {"number": 1, "title": "Binary Systems", "hours": 6},
+      {"number": 2, "title": "Boolean Algebra and Logic Gates", "hours": 5},
+      {"number": 3, "title": "Simplification of Boolean Functions", "hours": 5},
+      {"number": 4, "title": "Combinational Logic", "hours": 5},
+      {"number": 5, "title": "Combinational Logic with MSI and LSI", "hours": 8},
+      {"number": 6, "title": "Synchronous and Asynchronous Sequential Logic", "hours": 10},
+      {"number": 7, "title": "Registers and Counters", "hours": 6}
+    ],
+    "MTH112": [
+      {"number": 1, "title": "Function of One Variable", "hours": 5},
+      {"number": 2, "title": "Limits and Continuity", "hours": 4},
+      {"number": 3, "title": "Derivatives", "hours": 4},
+      {"number": 4, "title": "Applications of Derivatives", "hours": 4},
+      {"number": 5, "title": "Antiderivatives", "hours": 5},
+      {"number": 6, "title": "Applications of Antiderivatives", "hours": 5},
+      {"number": 7, "title": "Ordinary Differential Equations", "hours": 6},
+      {"number": 8, "title": "Infinite Sequence and Series", "hours": 5},
+      {"number": 9, "title": "Plane and Space Vectors", "hours": 4},
+      {"number": 10, "title": "Partial Derivatives and Multiple Integrals", "hours": 3}
+    ],
+    "PHY113": [
+      {"number": 1, "title": "Rotational Dynamics and Oscillatory Motion", "hours": 5},
+      {"number": 2, "title": "Electric and Magnetic Field", "hours": 5},
+      {"number": 3, "title": "Fundamentals of Atomic Theory", "hours": 8},
+      {"number": 4, "title": "Methods of Quantum Mechanics", "hours": 5},
+      {"number": 5, "title": "Fundamentals of Solid State Physics", "hours": 6},
+      {"number": 6, "title": "Semiconductor and Semiconductor Devices", "hours": 8},
+      {"number": 7, "title": "Universal Gates and Physics of Integrated Circuits", "hours": 8}
+    ],
+    "CSC160": [
+      {"number": 1, "title": "Basic Discrete Structures", "hours": 7},
+      {"number": 2, "title": "Integers and Matrices", "hours": 6},
+      {"number": 3, "title": "Logic and Proof Methods", "hours": 6},
+      {"number": 4, "title": "Induction and Recursion", "hours": 5},
+      {"number": 5, "title": "Counting and Discrete Probability", "hours": 9},
+      {"number": 6, "title": "Relations and Graphs", "hours": 12}
+    ],
+    "CSC161": [
+      {"number": 1, "title": "Introduction to Object Oriented Programming", "hours": 3},
+      {"number": 2, "title": "Basics of C++ Programming", "hours": 5},
+      {"number": 3, "title": "Classes and Objects", "hours": 8},
+      {"number": 4, "title": "Operator Overloading", "hours": 7},
+      {"number": 5, "title": "Inheritance", "hours": 7},
+      {"number": 6, "title": "Virtual Function, Polymorphism, and Miscellaneous C++ Features", "hours": 5},
+      {"number": 7, "title": "Function Templates and Exception Handling", "hours": 4},
+      {"number": 8, "title": "File Handling", "hours": 6}
+    ],
+    "CSC162": [
+      {"number": 1, "title": "Introduction", "hours": 4},
+      {"number": 2, "title": "Basic Architecture", "hours": 7},
+      {"number": 3, "title": "Instruction Cycle", "hours": 3},
+      {"number": 4, "title": "Assembly Language Programming", "hours": 10},
+      {"number": 5, "title": "Basic I/O, Memory Read/Write, and Interrupt Operations", "hours": 6},
+      {"number": 6, "title": "Input/Output Interfaces", "hours": 6},
+      {"number": 7, "title": "Advanced Microprocessors", "hours": 9}
+    ],
+    "MTH163": [
+      {"number": 1, "title": "Linear Equations in Linear Algebra", "hours": 5},
+      {"number": 2, "title": "Transformation", "hours": 4},
+      {"number": 3, "title": "Matrix Algebra", "hours": 5},
+      {"number": 4, "title": "Determinants", "hours": 4},
+      {"number": 5, "title": "Vector Spaces", "hours": 5},
+      {"number": 6, "title": "Vector Space Continued", "hours": 4},
+      {"number": 7, "title": "Eigenvalues and Eigenvectors", "hours": 5},
+      {"number": 8, "title": "Orthogonality and Least Squares", "hours": 5},
+      {"number": 9, "title": "Groups and Subgroups", "hours": 5},
+      {"number": 10, "title": "Rings and Fields", "hours": 4}
+    ],
+    "STA164": [
+      {"number": 1, "title": "Introduction", "hours": 4},
+      {"number": 2, "title": "Descriptive Statistics", "hours": 6},
+      {"number": 3, "title": "Introduction to Probability", "hours": 8},
+      {"number": 4, "title": "Sampling", "hours": 3},
+      {"number": 5, "title": "Random Variables and Mathematical Expectation", "hours": 5},
+      {"number": 6, "title": "Probability Distributions", "hours": 12},
+      {"number": 7, "title": "Correlation and Linear Regression", "hours": 7}
+    ],
+    "CSC206": [
+      {"number": 1, "title": "Introduction to Data Structures and Algorithms", "hours": 4},
+      {"number": 2, "title": "Stack", "hours": 4},
+      {"number": 3, "title": "Queue", "hours": 4},
+      {"number": 4, "title": "Recursion", "hours": 3},
+      {"number": 5, "title": "Lists", "hours": 8},
+      {"number": 6, "title": "Sorting", "hours": 8},
+      {"number": 7, "title": "Searching and Hashing", "hours": 6},
+      {"number": 8, "title": "Trees and Graphs", "hours": 8}
+    ],
+    "CSC207": [
+      {"number": 1, "title": "Solution of Nonlinear Equations", "hours": 8},
+      {"number": 2, "title": "Interpolation and Regression", "hours": 8},
+      {"number": 3, "title": "Numerical Differentiation and Integration", "hours": 8},
+      {"number": 4, "title": "Solving Systems of Linear Equations", "hours": 8},
+      {"number": 5, "title": "Solution of Ordinary Differential Equations", "hours": 8},
+      {"number": 6, "title": "Solution of Partial Differential Equations", "hours": 5}
+    ],
+    "CSC208": [
+      {"number": 1, "title": "Data Representation", "hours": 4},
+      {"number": 2, "title": "Register Transfer and Microoperations", "hours": 5},
+      {"number": 3, "title": "Basic Computer Organization and Design", "hours": 8},
+      {"number": 4, "title": "Microprogrammed Control", "hours": 4},
+      {"number": 5, "title": "Central Processing Unit", "hours": 4},
+      {"number": 6, "title": "Pipelining", "hours": 6},
+      {"number": 7, "title": "Computer Arithmetic", "hours": 6},
+      {"number": 8, "title": "Input/Output Organization", "hours": 4},
+      {"number": 9, "title": "Memory Organization", "hours": 4}
+    ],
+    "CSC209": [
+      {"number": 1, "title": "Introduction to Computer Graphics", "hours": 3},
+      {"number": 2, "title": "Scan Conversion Algorithms", "hours": 6},
+      {"number": 3, "title": "Two-Dimensional Geometric Transformations", "hours": 5},
+      {"number": 4, "title": "Three-Dimensional Geometric Transformations", "hours": 5},
+      {"number": 5, "title": "3D Objects Representation", "hours": 7},
+      {"number": 6, "title": "Solid Modeling", "hours": 4},
+      {"number": 7, "title": "Visible Surface Detections", "hours": 5},
+      {"number": 8, "title": "Illumination Models and Surface Rendering Techniques", "hours": 5},
+      {"number": 9, "title": "Introduction to Virtual Reality", "hours": 2},
+      {"number": 10, "title": "Introduction to OpenGL", "hours": 3}
+    ],
+    "STA210": [
+      {"number": 1, "title": "Sampling Distribution and Estimation", "hours": 6},
+      {"number": 2, "title": "Testing of Hypothesis", "hours": 8},
+      {"number": 3, "title": "Nonparametric Tests", "hours": 8},
+      {"number": 4, "title": "Multiple Correlation and Regression", "hours": 6},
+      {"number": 5, "title": "Design of Experiment", "hours": 10},
+      {"number": 6, "title": "Stochastic Process", "hours": 7}
+    ],
+    "CSC257": [
+      {"number": 1, "title": "Basic Foundations", "hours": 3},
+      {"number": 2, "title": "Introduction to Finite Automata", "hours": 8},
+      {"number": 3, "title": "Regular Expressions", "hours": 6},
+      {"number": 4, "title": "Context-Free Grammar", "hours": 9},
+      {"number": 5, "title": "Pushdown Automata", "hours": 7},
+      {"number": 6, "title": "Turing Machines", "hours": 10},
+      {"number": 7, "title": "Undecidability and Intractability", "hours": 5}
+    ],
+    "CSC258": [
+      {"number": 1, "title": "Introduction to Computer Networks", "hours": 6},
+      {"number": 2, "title": "Physical Layer and Network Media", "hours": 4},
+      {"number": 3, "title": "Data Link Layer", "hours": 8},
+      {"number": 4, "title": "Network Layer", "hours": 10},
+      {"number": 5, "title": "Transport Layer", "hours": 6},
+      {"number": 6, "title": "Application Layer", "hours": 7},
+      {"number": 7, "title": "Multimedia and Future Networking", "hours": 4}
+    ],
+    "CSC259": [
+      {"number": 1, "title": "Operating System Overview", "hours": 4},
+      {"number": 2, "title": "Process Management", "hours": 10},
+      {"number": 3, "title": "Process Deadlocks", "hours": 6},
+      {"number": 4, "title": "Memory Management", "hours": 8},
+      {"number": 5, "title": "File Management", "hours": 6},
+      {"number": 6, "title": "Device Management", "hours": 6},
+      {"number": 7, "title": "Linux Case Study", "hours": 5}
+    ],
+    "CSC260": [
+      {"number": 1, "title": "Database and Database Users", "hours": 2},
+      {"number": 2, "title": "Database System Concepts and Architecture", "hours": 3},
+      {"number": 3, "title": "Data Modeling Using the Entity-Relationship Model", "hours": 6},
+      {"number": 4, "title": "The Relational Data Model and Relational Database Constraints", "hours": 3},
+      {"number": 5, "title": "Relational Algebra and Relational Calculus", "hours": 5},
+      {"number": 6, "title": "SQL", "hours": 8},
+      {"number": 7, "title": "Relational Database Design", "hours": 7},
+      {"number": 8, "title": "Introduction to Transaction Processing Concepts and Theory", "hours": 4},
+      {"number": 9, "title": "Concurrency Control Techniques", "hours": 4},
+      {"number": 10, "title": "Database Recovery Techniques", "hours": 3}
+    ],
+    "CSC261": [
+      {"number": 1, "title": "Introduction", "hours": 3},
+      {"number": 2, "title": "Intelligent Agents", "hours": 4},
+      {"number": 3, "title": "Problem Solving by Searching", "hours": 9},
+      {"number": 4, "title": "Knowledge Representation", "hours": 14},
+      {"number": 5, "title": "Machine Learning", "hours": 9},
+      {"number": 6, "title": "Applications of AI", "hours": 6}
+    ]
+  }
+}
